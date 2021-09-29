@@ -1,2 +1,2 @@
 #!/bin/bash
-BETTY="Holberton"
+local var=BEST | local var=School
